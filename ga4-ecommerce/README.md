@@ -2,7 +2,7 @@
 
 Self-directed analysis of Google's public GA4 sample dataset (Google Merchandise Store, Nov 2020 to Jan 2021). Built to practice product analytics: session-level SQL, funnel analysis, anomaly checks and a dashboard.
 
-**Dashboard:** [add link] (Data Studio, formerly Looker Studio)
+**Dashboard:** [https://datastudio.google.com/reporting/b2169a45-7d5e-4fcf-8ca9-61513fecc26f] (Data Studio, formerly Looker Studio)
 **Memo:** [memo.md](memo.md) has three findings, each with evidence and a proposed next step.
 
 ## Results in brief
