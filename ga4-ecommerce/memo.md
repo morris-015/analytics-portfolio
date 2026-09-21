@@ -3,7 +3,7 @@
 **Data:** Public GA4 sample export from the Google Merchandise Store (BigQuery). Self-directed project, not client work.
 **Window:** Nov 1, 2020 to Jan 25, 2021. Jan 26 to 31 is excluded from headline figures (see Finding 2). Revenue is in USD.
 **Headline:** 337,693 sessions, 4,398 purchasing sessions (1.30%), $335,957 revenue ($0.995 per session).
-**Tools:** BigQuery SQL, Data Studio (formerly Looker Studio) dashboard. Queries are in `/sql`, dashboard at [add link].
+**Tools:** BigQuery SQL and a Data Studio (formerly Looker Studio) dashboard: https://datastudio.google.com/reporting/b2169a45-7d5e-4fcf-8ca9-61513fecc26f. Queries are in `/sql`.
 
 ## Summary
 
